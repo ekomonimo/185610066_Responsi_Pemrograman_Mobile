@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CoronaVirus (COVID-19) Live Map Tracker Android App
 
 CoronaVirus(COVID-19) outbreak Live Map tracker 
@@ -56,3 +57,6 @@ In this project I'm using MVVM and Repository Pattern.
 ## Got any interesting ideas?
 Feel free to contact me at [Email](mailto:dhikyaldwiansyah@gmail.com) or [Telegram](https://t.me/Kyald) or [LinkedIn](https://www.linkedin.com/in/dhiky-aldwiansyah)
 
+=======
+# 185610066_Responsi_Pemrograman_Mobile
+>>>>>>> d2d0677d9a83d594e31d86fcf867dee814567fe1
